@@ -1,4 +1,4 @@
-# Python-Pandas-data-analysis-100-programming-exercises-
+# Python-Pandas-data-analysis-
 #B站 Python Pandas 数据分析，编程练习100例
 
 #目前更新到视频 69
